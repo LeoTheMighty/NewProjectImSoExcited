@@ -1,2 +1,9 @@
+#include<iostream>
+
 using namespace std;
-int a = 1;
+
+void main(int argc, char *argv[]) {
+    int beauty = 1;
+
+    printf("Hello World!");
+}
