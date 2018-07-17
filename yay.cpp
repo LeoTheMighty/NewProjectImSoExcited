@@ -3,7 +3,7 @@
 using namespace std;
 
 void main(int argc, char *argv[]) {
-    int courage = 1;
+    int vitality = 1;
 
     printf("Hello World!");
 }
