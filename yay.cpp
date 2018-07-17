@@ -3,7 +3,7 @@
 using namespace std;
 
 void main(int argc, char *argv[]) {
-    int beauty = 1;
+    int courage = 1;
 
     printf("Hello World!");
 }
